@@ -39,7 +39,3 @@ pip install -r requirements.txt
 - `house_price_prediction.ipynb` - Jupyter Notebook with full code and analysis.
 - `requirements.txt` - List of required libraries.
 - `README.md` - Project overview and instructions.
-
-## License
-
-This project is for educational purposes. You may use the code as a reference for similar projects.
